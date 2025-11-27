@@ -2,7 +2,25 @@
 reTerminal eink displays from Seeed Studio
 
 
-**YouTube video: XXX**
+**YouTube video: https://youtu.be/PtaXK2MAQ08**
+
+Links from the video:
+- Do you like this video? You can buy me a coffee ☕: https://www.buymeacoffee.com/upir
+- SenseCraft HMI online tool: https://sensecraft.seeed.cc/hmi
+- reTerminal E1001: https://s.click.aliexpress.com/e/_c321Xm3r
+- reTerminal E1002: https://s.click.aliexpress.com/e/_c38caCY1
+
+Related videos with Eink and Eink-like displays:
+- 7-Segment LCD Display: https://youtu.be/BuPAdIORbwU
+- Reflective LCD: https://youtu.be/ADmfI2H1qME
+- Posy’s designs ➔ REAL DISPLAYS: https://youtu.be/jz01j1TpM84
+- YouTube Counter: https://youtu.be/HFFhTrAkerU
+- Custom Clocks for Smart Watches: https://youtu.be/4M407AYPeH0
+- Arduino + Ynvisible Displays: https://youtu.be/lxeH1ilL2T0
+- E-ink Display Project Ideas: https://youtu.be/oAJUBPxjCwk
+
+![THUMB_seeed_studio_reterminal](https://github.com/user-attachments/assets/ab61dec5-accf-435b-a9d0-2b1232b66b62)
+
 
 
 Screenshots from the video:
